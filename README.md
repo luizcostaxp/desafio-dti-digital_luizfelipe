@@ -57,9 +57,6 @@ O sistema tem frontend e backend separados. O backend, feito com Node.js e Expre
 
 Eles se comunicam via fetch. Como está tudo rodando localmente, precisei liberar o CORS no backend pra evitar erro ao fazer as requisições.
 
-Usei React porque já tenho alguma prática, e CSS puro pra deixar a interface simples, funcional e fácil de usar.
-
-
 ### Outras informações importantes
 
 Testes unitários não foram implementados.
