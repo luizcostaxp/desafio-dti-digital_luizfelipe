@@ -64,3 +64,9 @@ Usei React porque já tenho alguma prática, e CSS puro pra deixar a interface s
 
 Testes unitários não foram implementados.
 Para rodar o backend, será preciso o Node.js versão 16 ou superior.
+
+### Prévia do resultado
+<img width="1360" height="644" alt="image" src="https://github.com/user-attachments/assets/c817316f-6330-4686-a8df-a2b187883952" />
+<img width="1360" height="644" alt="image" src="https://github.com/user-attachments/assets/5a9d4568-98b9-4ada-986f-513a8fc72aa5" />
+
+
