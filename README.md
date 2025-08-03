@@ -19,8 +19,9 @@ Este projeto tem como objetivo encontrar o melhor petshop para banho de cães pe
 
    ```bash
    git clone https://github.com/luizcostaxp/desafio-dti-digital_luizfelipe
-   cd 
    ```
+   Em seguida, acesse o diretório onde o projeto foi baixado.
+
 2. Backend (API):
 
    ```bash
